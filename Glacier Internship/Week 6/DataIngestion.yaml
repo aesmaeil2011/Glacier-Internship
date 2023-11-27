@@ -1,0 +1,22 @@
+columns:
+- title
+- mediaType
+- eps
+- duration
+- ongoing
+- startYr
+- finishYr
+- sznOfRelease
+- description
+- studios
+- tags
+- contentWarn
+- watched
+- watching
+- wantWatch
+- dropped
+- rating
+- votes
+file path: DataIngestion.yaml
+number of columns: 18
+number of rows: 14578
